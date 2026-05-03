@@ -9,7 +9,7 @@ digital spaces.
 
 - Hypercasual physics simulations: simple, mobile-first, instant access
 - Custom MVC framework in TypeScript with Babylon.js for rapid simulation development
-- Exploring AI-assisted code generation for physics modules
+- Exploring AI-assisted code generation versus human-written code for physics modules
 
 🛠 **Tech stack**
 
