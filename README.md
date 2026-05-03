@@ -27,7 +27,7 @@ All simulations are free to play at [www.fisicagames.com.br](https://www.fisicag
 
 📫 **Contact**
 
-rafael.ribeiro@ifpr.edu.br
+fisicagamesbr@gmail.com
 
 ---
 
