@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rafael
+# 👋 Hi, I'm Rafael João
 
 Physics teacher and developer. I create interactive 3D physics simulations
 designed to run directly in mobile browsers — without installation, login,
